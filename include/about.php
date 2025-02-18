@@ -11,7 +11,7 @@
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-4 order-1 order-lg-2" data-aos="fade-up" data-aos-delay="100">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="درباره ما">
+            <img src="assets/img/about.webp" class="img-fluid" alt="درباره ما">
           </div>
           <div class="col-lg-8 order-2 order-lg-1 content" data-aos="fade-up" data-aos-delay="200">
             <h5>ارائه راهکارهای خلاقانه برای موفقیت شما</h5>
