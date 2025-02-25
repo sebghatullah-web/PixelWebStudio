@@ -88,7 +88,7 @@
     <?php include_once 'include/portfolio.php'; ?>
     
 
-    <?php include_once 'include/price.php'; ?>
+  
 
     
     <?php include_once 'include/team.php'; ?>

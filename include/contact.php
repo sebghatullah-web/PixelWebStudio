@@ -1,3 +1,5 @@
+
+
 <!-- بخش تماس -->
     <section id="contact" class="contact section">
 
@@ -50,8 +52,7 @@
           </div><!-- پایان نقشه گوگل -->
 
           <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up"
-              data-aos-delay="400">
+            <form method="post" class="php-email-form">
               <div class="row gy-4">
 
                 <div class="col-md-6">
@@ -70,12 +71,8 @@
                   <textarea class="form-control" name="message" rows="6" placeholder="پیام" required=""></textarea>
                 </div>
 
-                <div class="col-md-12 text-center">
-                  <div class="loading">در حال بارگذاری</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">پیام شما ارسال شد. متشکریم!</div>
-
-                  <button type="submit">ارسال پیام</button>
+                <div class="col-md-12 text-center">                  
+                  <button type="submit" name="submit">ارسال پیام</button>
                 </div>
 
               </div>
